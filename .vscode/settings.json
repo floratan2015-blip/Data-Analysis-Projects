@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "/Users/maggiejiang/Documents/dataanalysisprojects/.venv/bin/python",
+  "jupyter.jupyterServerType": "local",
+  "jupyter.serverURI": "http://localhost:8888",
+  "python-envs.pythonProjects": []
+}
